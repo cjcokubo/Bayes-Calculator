@@ -1,2 +1,2 @@
 # Bayes-Calculator
-Computes inverted conditional probabilities with new information.
+Computes inverted conditional probabilities from priors and likelihood.
